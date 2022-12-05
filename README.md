@@ -10,6 +10,10 @@ These are all the technologies and patterns used to develop this application
 - [Ruby](https://www.ruby-lang.org/)
 - [Rails](https://rubyonrails.org/)
 
+## Entity-Relationship Diagram
+
+[![N|Solid](https://i.imgur.com/IIWWYxW.png)](https://corsego.herokuapp.com)
+
 ## ⚙️ Deploy Heroku
 This application is deployed on Heroku. You can acess by clicking in the link below:
 https://rubyonrails-learning-platform.herokuapp.com/
