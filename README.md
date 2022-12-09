@@ -15,12 +15,6 @@ These are all the technologies and patterns used to develop this application
 
 [![N|Solid](https://i.imgur.com/IIWWYxW.png)](https://corsego.herokuapp.com)
 
-## ⚙️ Deploy Heroku
-This application is deployed on Heroku. You can acess by clicking in the link below:
-https://rubyonrails-learning-platform.herokuapp.com/
-
-To deploy new code, type: "git push heroku main"
-
 ## ⚙️ Executing the Project
 To execute the project, follow the steps below:
 
