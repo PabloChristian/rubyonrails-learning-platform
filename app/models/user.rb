@@ -1,10 +1,6 @@
 # frozen_string_literal: true
 
 class User < ApplicationRecord
-  devise :invitable, :database_authenticatable, :registerable,
-         :recoverable, :rememberable, :validatable, :trackable, :confirmable, :invitable,
-         :omniauthable, omniauth_providers: %i[google_oauth2 github facebook]
-
   rolify
 
   has_many :courses, dependent: :nullify
