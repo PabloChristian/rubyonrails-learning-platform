@@ -1,5 +1,5 @@
 <h1>
-  Learning Plataform
+  Learning Platform
 </h1>
 
 ## 📌 Overview
@@ -9,6 +9,7 @@ This is an online learning application made using Ruby on Rails.
 These are all the technologies and patterns used to develop this application
 - [Ruby](https://www.ruby-lang.org/)
 - [Rails](https://rubyonrails.org/)
+- HAML: Haml is a markup language predominantly used with Ruby that cleanly and simply describes the HTML of any web document without the use of inline code.
 
 ## Entity-Relationship Diagram
 
